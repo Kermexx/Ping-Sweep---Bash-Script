@@ -1,6 +1,6 @@
-# ScanIPs
+# Ping-Sweep
 
-ScanIPs é uma ferramenta simples em Bash para descobrir hosts ativos em uma rede local. Basta fornecer um segmento de IP como argumento, e o script irá enviar um ping para cada endereço IP dentro desse segmento, exibindo os hosts que responderem.
+Ping-Sweep é uma ferramenta simples em Bash para descobrir hosts ativos em uma rede local. Basta fornecer um segmento de IP como argumento, e o script irá enviar um ping para cada endereço IP dentro desse segmento, exibindo os hosts que responderem.
 
 Como usar:
 ./01.sh [segmento de IP]
